@@ -1,0 +1,15 @@
+{
+  "name": "planets-project-node",
+  "version": "1.0.0",
+  "description": "The project uses Node.js to create a robust backend server, following the curriculum of the Zero to Mastery (ZTM) course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
